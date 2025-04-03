@@ -7,7 +7,8 @@ const Navbar = () => {
         <div>
             <img src={assets.logo} alt='' />
             <ul>
-                <a href='#Header' className='cursor-pointer'></a>
+                <a href='#Header' className='cursor-pointer
+                hover: text-gray-400'>Home</a>
             </ul>
         </div>
     </div>
