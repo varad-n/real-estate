@@ -34,6 +34,7 @@ const About = () => {
                     includes purchasing a home, rental property, or land. Indirect investment in real
                     estate can be made via REITs or through pooled real estate investment.
                 </p>
+                <button className='bg-blue-500 text-white px-8 py-2 rounded'>Learn more</button>
             </div>
        </div>
     </div>
